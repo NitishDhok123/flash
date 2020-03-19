@@ -1,6 +1,6 @@
 this file is created to test for sub branch under master branch
 
 thank you 
-
+going to merge this files
 regards
 Ntiish
